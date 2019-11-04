@@ -1,0 +1,9 @@
+---
+data:
+- input_dir: test_set_audio_batch/input_-.測 1
+  output_dir: test_set_audio_batch/output_-.測 1-custom
+  combinations:
+  - input_video: input_-.測 1__1.mov
+    input_audio: input_-.測 1__1.mp3
+    output_video: input_-.測 1__1-merged-custom.mp4
+...

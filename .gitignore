@@ -1,0 +1,31 @@
+# Some common files on Linux / Max OSX system
+.DS_Store
+*.tmp
+*.swap
+__MACOSX/
+
+# Compressed/tar files
+*.tar.gz
+*.tgz
+*.zip
+
+# Python derived files
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+
+# Others
+*.ogv
+*.mp4
+*.avi
+*.mov
+*.mpeg
+*.mp3
+*.srt
+*.vtt
+input_*/
+output_*/
+*.yaml
+*.yml

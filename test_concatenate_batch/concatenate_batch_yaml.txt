@@ -1,0 +1,17 @@
+---
+data:
+- input_dir: test_concatenate_batch/input_-.測 1
+  output_dir: test_concatenate_batch/output_-.測 1
+  output_name: input_-.測 1-merged.mp4
+  # group_items: 6
+  # input_names:
+  # - aa.mp4
+  # - bb.mp4
+- input_dir: test_concatenate_batch/input_-.測 2
+  output_dir: test_concatenate_batch/output_-.測 2
+  output_name: input_-.測 2-merged.mp4
+  group_items: 2
+  # input_names:
+  # - aa.mp4
+  # - bb.mp4
+...

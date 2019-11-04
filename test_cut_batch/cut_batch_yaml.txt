@@ -1,0 +1,33 @@
+---
+data:
+- input_dir: test_cut_batch/input_-.測 1
+  output_dir: test_cut_batch/output_-.測 1
+  combnations:
+  - input_name: input_-.測 1__1.mp4
+    intervals:
+    - start_time: 1.50
+      end_time: 2.50
+    - start_time: 3.50
+      end_time: 4.50
+  - input_name: input_-.測 1__2.mp4
+    intervals:
+    - start_time: 1.50
+      end_time: 2.50
+    - start_time: 3.50
+      end_time: 4.50
+- input_dir: test_cut_batch/input_-.測 2
+  output_dir: test_cut_batch/output_-.測 2
+  combnations:
+  - input_name: input_-.測 2__3.mp4
+    intervals:
+    - start_time: 1.50
+      end_time: 2.50
+    - start_time: 3.50
+      end_time: 4.50
+  - input_name: input_-.測 2__4.mp4
+    intervals:
+    - start_time: 1.50
+      end_time: 2.50
+    - start_time: 3.50
+      end_time: 4.50
+...

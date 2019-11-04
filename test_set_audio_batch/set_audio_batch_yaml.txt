@@ -1,0 +1,21 @@
+---
+data:
+- input_dir: test_set_audio_batch/input_-.測 1
+  output_dir: test_set_audio_batch/output_-.測 1
+  combinations:
+  - input_video: input_-.測 1__1.mov
+    input_audio: input_-.測 1__1.mp3
+    output_video: input_-.測 1__1-merged.mp4
+  - input_video: input_-.測 1__2.mov
+    input_audio: input_-.測 1__2.mp3
+    output_video: input_-.測 1__2-merged.mp4
+- input_dir: test_set_audio_batch/input_-.測 2
+  output_dir: test_set_audio_batch/output_-.測 2
+  combinations:
+  - input_video: input_-.測 2__3.mov
+    input_audio: input_-.測 2__3.mp3
+    output_video: input_-.測 2__3-merged.mp4
+  - input_video: input_-.測 2__4.mov
+    input_audio: input_-.測 2__4.mp3
+    output_video: input_-.測 2__4-merged.mp4
+...

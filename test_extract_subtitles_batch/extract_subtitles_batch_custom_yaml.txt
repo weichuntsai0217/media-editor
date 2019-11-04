@@ -1,0 +1,8 @@
+---
+data:
+- input_dir: test_extract_subtitles_batch/input_-.測 1
+  output_dir: test_extract_subtitles_batch/output_-.測 1-custom
+  input_lang: en
+  output_lang: en
+  extension: srt # output extension format
+...

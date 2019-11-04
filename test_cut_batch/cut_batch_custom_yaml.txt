@@ -1,0 +1,10 @@
+---
+data:
+- input_dir: test_cut_batch/input_-.測 1
+  output_dir: test_cut_batch/output_-.測 1-custom
+  combnations:
+  - input_name: input_-.測 1__1.mp4
+    intervals:
+    - start_time: 1.50
+      end_time: 2.50
+...

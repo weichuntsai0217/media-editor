@@ -1,0 +1,11 @@
+---
+data:
+- input_dir: test_concatenate_batch/input_-.測 1
+  output_dir: test_concatenate_batch/output_-.測 1-custom
+  output_name: input_-.測 1-merged-custom.mp4
+  # group_items: 6
+  input_names:
+  - 螢幕錄製 2019-11-27 上午1.30.50.mov
+  - 螢幕錄製 2019-11-27 上午1.31.01.mov
+  - 螢幕錄製 2019-11-27 上午1.29.14.mov
+...

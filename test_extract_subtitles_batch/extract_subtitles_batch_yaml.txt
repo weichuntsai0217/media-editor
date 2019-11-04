@@ -1,0 +1,13 @@
+---
+data:
+- input_dir: test_extract_subtitles_batch/input_-.測 1
+  output_dir: test_extract_subtitles_batch/output_-.測 1
+  # input_lang: zh-TW
+  # output_lang: zh-TW
+  # extension: vtt # output extension format
+- input_dir: test_extract_subtitles_batch/input_-.測 2
+  output_dir: test_extract_subtitles_batch/output_-.測 2
+  # input_lang: zh-TW
+  # output_lang: zh-TW
+  # extension: vtt # output extension format
+...
